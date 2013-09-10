@@ -1,5 +1,5 @@
-JBoss BPM Customer Evaluation kjar project.
-===========================================
+JBoss BPM Customer Evaluation kjar project
+==========================================
 
 Demo based on JBoss BPM Suite product.
 
