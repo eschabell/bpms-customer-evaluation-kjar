@@ -1,3 +1,6 @@
+Update: June 2018 moved to [Gitlab](https://gitlab.com/eschabell/bpms-customer-evaluation-kjar)
+
+
 JBoss BPM Customer Evaluation kjar project
 ==========================================
 
